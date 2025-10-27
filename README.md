@@ -1,12 +1,3 @@
-# INTERNAL TODOs & NOTES
-
- - [ ] course should start with devcontainer use & setup
- - [ ] initial 1-4 workshops with Jupyter Notebooks
- - [ ] finalize with FastAPI backend deployment
- - [ ] add more papers to mandatory_papers
- - [ ] refine imobiliare in 4+1 workshops (4 + API)
- - [ ] refine restocracy in 2+1 workshops (2 + API)
-
 # DS101 - Data Science with Deep Learning 2025-2026
 _From dataset understanding to result presentation and how to employ deep acyclic graph models in Predictive Analytics_
 

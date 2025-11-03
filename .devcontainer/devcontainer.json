@@ -5,7 +5,7 @@
 
 
   "runArgs": [
-    "--gpus=all",
+    // "--gpus=all",
     "--hostname",
     "ds101-devcont"    
   ],

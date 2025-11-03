@@ -5,7 +5,7 @@
 
 
   "runArgs": [
-    // "--gpus=all",
+    // "--gpus=all", // uncomment to enable GPU support
     "--hostname",
     "ds101-devcont"    
   ],

@@ -5,9 +5,11 @@
 
 
   "runArgs": [
-    // "--gpus=all", // uncomment to enable GPU support
+    "--gpus=all", // uncomment to enable GPU support
     "--hostname",
-    "ds101-devcont"    
+    "ds101-2025", 
+    "--name",
+    "ds101-2025"  
   ],
 
 

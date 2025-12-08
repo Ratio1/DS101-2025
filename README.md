@@ -21,12 +21,13 @@ This is the graduate course in Data Science - a 11 lecture & hands-on labs journ
  - `data` folder with toy and maybe-not-so-toy datasets
 
  ## Course Project Rules
+  - **IMPORTANT: You ARE ALLOWED to use Generative AI for you projects and presentations. BUT you SHOULD have full 100% understanding of you presentation and your generated code.**
   - 1-3 students per project
   - end-to-end small application that will have the following components:
     - script or Jupyter notebook model definition and training - using scrapped / real life data and some basic model architecture searching techniques -> will generate a serving candidate model
     - simple straightforward model serving backend - using Flask or FastAPI
     - simple frontend - using Bokeh, React or Angular or anything else - for example just a simple HTML page with some data entry controls within a submittion form and a result section below the form
-
+    
 ## Course Research Highlight tips
  - simple PPT/Slides/PDF presentation
  - focus on the parts of the paper that you found out to be the most interesting and you liked the most

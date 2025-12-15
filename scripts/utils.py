@@ -18,6 +18,8 @@ def set_pretty_prints():
   pd.set_option('display.max_columns', 500)
   pd.set_option('display.max_colwidth', 500)
   pd.set_option('display.width', 1000)
+  pd.set_option('display.precision', 3)
+  pd.set_option('display.float_format', '{:.3f}'.format)
 
   np.set_printoptions(precision=2)
   np.set_printoptions(suppress=True)
